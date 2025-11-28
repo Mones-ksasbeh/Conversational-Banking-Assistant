@@ -2,7 +2,7 @@ import pymongo
 from pymongo.mongo_client import MongoClient 
 
 # Important Note about the security !!!!! Just here for experamint 
-Connection_string = "mongodb+srv://moksasbeh_db_user:Mmm2003@cluster01.dtypy19.mongodb.net/?appName=Cluster01"
+Connection_string = "mongodb+srv://moksasbeh_db_user:######@cluster01.dtypy19.mongodb.net/?appName=Cluster01"
 
 try : 
     # Create Database Connection 
